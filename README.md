@@ -9,6 +9,6 @@ I'm a software engineer who is passionate about creating technology to elevate p
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- My portfolio<a href="https://portfolio-ahmedhany22.vercel.app"> 📹 ✍🏾
+- My <a href="https://portfolio-ahmedhany22.vercel.app">portfolio</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/ahmed-hany-ali/">LinkedIn</a> 💼
 - Tinkering with interactions on <a href=""> Codepen</a> 🏓
