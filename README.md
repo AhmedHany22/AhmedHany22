@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently looking for a Jop as a Frontend Developer 
 
-<img src="https://raw.githubusercontent.com/AhmedHany22/AhmedHany22/master/GitHub-profile.png" alt="banner that says Ahmed Hany - Frontend Developer specialize in React framework & currently studing MERN stack technology">
+<img src="https://raw.githubusercontent.com/AhmedHany22/AhmedHany22/main/GitHub-profile.png" alt="banner that says Ahmed Hany - Frontend Developer specialize in React framework & currently studing MERN stack technology">
 I'm a software engineer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Redux and Restful APIs.
 
 
